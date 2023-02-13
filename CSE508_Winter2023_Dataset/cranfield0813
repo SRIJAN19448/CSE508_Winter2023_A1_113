@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+813
+</DOCNO>
+<TITLE>
 the motion of rolling symmetrical missiles referred
 to a body-axis system .
- 
+</TITLE>
+<AUTHOR>
+nelson,r.l.
+</AUTHOR>
+<BIBLIO>
+naca tn.3737, 1956.
+</BIBLIO>
+<TEXT>
   the linearized equations of motion have been derived for a rolling
 missile having slight aerodynamic asymmetries .  time histories of
 rolling-missile motions referred to a body-axis system have been prepared
@@ -14,3 +25,5 @@ for the reduction of rolling-missile oscillation data .  it is shown
 that the aerodynamic derivatives can be obtained from flight data if
 four accelerations are measured .  the method is applied to the results
 obtained from a flight test of a missile configuration .
+</TEXT>
+</DOC>

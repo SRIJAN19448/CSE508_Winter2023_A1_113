@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1222
+</DOCNO>
+<TITLE>
 axisymmetric magnetohydrodynamic channel flow .
- 
+</TITLE>
+<AUTHOR>
+hains,f.d. and holer,y.a.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1962, 143.
+</BIBLIO>
+<TEXT>
   the axisymmetric subsonic and supersonic flow fields, and the
 skin friction and heat transfer of an electrically conducting compressible
 fluid flowing in a channel of constant circular area
@@ -23,3 +34,5 @@ made with a shock tube under supersonic-flow conditions closely
 approaching those used in the numerical computations .  general
 agreement is found between the theoretical and the experimental
 results .
+</TEXT>
+</DOC>

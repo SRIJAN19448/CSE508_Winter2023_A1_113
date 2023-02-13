@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+668
+</DOCNO>
+<TITLE>
 measurements of stagnation point heat transfer at low
 reynolds number .
- 
+</TITLE>
+<AUTHOR>
+ferri,a. and zakkay,v.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 28, 1962, 847.
+</BIBLIO>
+<TEXT>
   measurements of stagnation point heat transfer are presented
 in the reynolds number range between the free molecular flow
 and the range where modified boundary layer theory still applies .
@@ -12,3 +23,5 @@ reynolds number for which the modified boundary layer
 theory can be used is in agreement with experiments .  in the
 lower range of reynolds number the ratio of decreases
 and reaches a value of 1 at a reynolds number of 40 .
+</TEXT>
+</DOC>

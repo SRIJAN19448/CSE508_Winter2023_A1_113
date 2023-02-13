@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+6
+</DOCNO>
+<TITLE>
 one-dimensional transient heat flow in a multilayer
 slab .
- 
+</TITLE>
+<AUTHOR>
+campbell,w.f.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 25, 1958, 340.
+</BIBLIO>
+<TEXT>
   in a recent contribution to the readers'
 forum wassermann gave analytic
 solutions for the temperature in a double
@@ -17,3 +28,5 @@ reference 2, and to point out
 that the solutions given by wassermann are
 incomplete for times longer
 than the duration of the heat input .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+601
+</DOCNO>
+<TITLE>
 calculation of the flow past slender delta wings with
 leading edge separation .
- 
+</TITLE>
+<AUTHOR>
+mangler,k.w. and smith,j.
+</AUTHOR>
+<BIBLIO>
+rae r. aero.2593, 1957.
+</BIBLIO>
+<TEXT>
   the flow past a slender delta
 wing with a sharp leading edge, at
 incidence, usually separates along
@@ -38,3 +49,5 @@ patterns are indicated in two
 typical cases .  the effect of separation on
 the drag due to lift of a wing
 with small thickness is discussed .
+</TEXT>
+</DOC>

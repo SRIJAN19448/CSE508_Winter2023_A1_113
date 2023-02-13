@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+150
+</DOCNO>
+<TITLE>
 integration of the boundary layer equations .
- 
+</TITLE>
+<AUTHOR>
+meksyn,d.
+</AUTHOR>
+<BIBLIO>
+proc.roy.s.a. 237 1956, 543.
+</BIBLIO>
+<TEXT>
 the equations of the boundary layer
 are integrated by an expression of the form
 where f(x) is a positive function with x=0
@@ -25,3 +36,5 @@ with schubauer's measurements for the velocities,
 almost up to separation, for the position of
 the separation point,. and in satisfactory agreement downstream of
 separation .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+69
+</DOCNO>
+<TITLE>
 predicted shock envelopes about two types of vehicles
 at large angles of attack .
- 
+</TITLE>
+<AUTHOR>
+kaattari,g.e.
+</AUTHOR>
+<BIBLIO>
+nasa tn.d860, 1961.
+</BIBLIO>
+<TEXT>
   methods based on oblique- and normal-shock relationships and the
 continuity of mass flow through suitably chosen volume elements between
 the shock and body were developed to predict shock envelopes about two
@@ -13,3 +24,5 @@ for a mach number range of 3 to 15 for vehicles at high angles of
 attack,. good agreement was found .  most of the available experimental
 data were in a speed and temperature range in which no important realgas
 effects occurred .
+</TEXT>
+</DOC>

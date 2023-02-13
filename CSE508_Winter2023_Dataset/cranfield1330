@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1330
+</DOCNO>
+<TITLE>
 on some fourier transforms in the theory of non-stationary
 flows .
- 
+</TITLE>
+<AUTHOR>
+garrick,i.e.
+</AUTHOR>
+<BIBLIO>
+proc. 5th int. cong. app. mech. 1938, j. wiley, 590.
+</BIBLIO>
+<TEXT>
   the growth of lift on a airfoil
 starting impulsively from rest to a uniform velocity
 has been given by wagner (1925) .  the
@@ -30,3 +41,5 @@ describing the growth of lift on an airfoil entering
 a sharp edged vertical gust region .  this
 function bears a certain relation to wagner's
 function which is briefly discussed .
+</TEXT>
+</DOC>

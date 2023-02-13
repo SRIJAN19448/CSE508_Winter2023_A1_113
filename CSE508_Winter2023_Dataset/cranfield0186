@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+186
+</DOCNO>
+<TITLE>
 base pressure in supersonic flow .
- 
+</TITLE>
+<AUTHOR>
+gadd,g.e., holder,d.w. and regan,j.d.
+</AUTHOR>
+<BIBLIO>
+arc cp271, 1956.
+</BIBLIO>
+<TEXT>
   the problem of accurately predicting the pressure and wake
 configuration at the base of bodies in supersonic flow is an extremely
 important one inasmuch as a sizeable portion of the total
@@ -20,3 +31,5 @@ bodies when the base height-to-chord ratios are of
 the order .
   reviewer believes this report is a significant contribution in the
 field of base pressure and wake flow phenomena .
+</TEXT>
+</DOC>

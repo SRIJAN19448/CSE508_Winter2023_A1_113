@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+562
+</DOCNO>
+<TITLE>
 concerning the effect of compressibility on laminar
 boundary layers and their separation .
- 
+</TITLE>
+<AUTHOR>
+howarth,l.
+</AUTHOR>
+<BIBLIO>
+proc. roy. soc. a, 194, 1948.
+</BIBLIO>
+<TEXT>
   the theory of compressible flow in a laminar
 boundary layer has been developed for the
 case when the viscosity is assumed to be
@@ -33,3 +44,5 @@ earlier separation as compared with the incompressible
 flow with the same mainstream velocity
 distribution and the kinematic viscosity corresponding
 to conditions at the stagnation point .
+</TEXT>
+</DOC>

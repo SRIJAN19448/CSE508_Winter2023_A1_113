@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+538
+</DOCNO>
+<TITLE>
 the conpressibility transformation and the turbulent
 boundary layer equations .
- 
+</TITLE>
+<AUTHOR>
+burgraf,o.r.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 19, 1962.
+</BIBLIO>
+<TEXT>
   the compressibility transformation first introduced by dorodnitzyn
 has been applied in this paper to the equations of the turbulent
 boundary layer on a flat plate, considering heat transfer
@@ -20,3 +31,5 @@ good agreement with eckert's formula over the ordinary range of
 test conditions .  in view of these results, the analysis may be
 considered to provide a theoretical basis for the referenceenthalpy
 method .
+</TEXT>
+</DOC>

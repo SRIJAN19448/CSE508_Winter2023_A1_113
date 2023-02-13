@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+890
+</DOCNO>
+<TITLE>
 comments on 'thermal buckling of clamped cylindrical shells' .
- 
+</TITLE>
+<AUTHOR>
+david j. johns
+</AUTHOR>
+<BIBLIO>
+lecturer, college of aeronautics, cranfield, england
+</BIBLIO>
+<TEXT>
 in the recent paper by zuk, an expression was presented for
 the critical buckling temperature of a clamped cylindrical shell
 in terms of the material and geometrical properties of the shell .
@@ -14,3 +25,5 @@ it is well known, however, that the discontinuity stresses introduced at
 the junction of a shell and a rigid frame (or bulk-head) are extremely
 localized, and the circumferential stresses induced in the shell
 decrease rapidly away from the joint .
+</TEXT>
+</DOC>

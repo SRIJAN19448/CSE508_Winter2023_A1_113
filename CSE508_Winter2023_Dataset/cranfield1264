@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1264
+</DOCNO>
+<TITLE>
 boundary layer transition and heat transfer in shock
 tubes .
- 
+</TITLE>
+<AUTHOR>
+hartunian,r.a., russo,a.l. and marrone,p.v.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1960, 587.
+</BIBLIO>
+<TEXT>
   an experimental study is made of the wall boundary layer in a
 shock tube operated over a wide range of shock mach numbers
 and pressure levels in air, including those for which real-gas effects
@@ -25,3 +36,5 @@ the range of the experiments reported .
 of the shock tube are determined experimentally .  the results
 of the heat-transfer measurements substantiate existing theories
 in both the laminar- and turbulent-flow regimes .
+</TEXT>
+</DOC>

@@ -1,6 +1,18 @@
-
+<DOC>
+<DOCNO>
+1353
+</DOCNO>
+<TITLE>
 investigation of a two-step nozzle in the langley 11in .
- 
+</TITLE>
+<AUTHOR>
+ hypersonic tunnel .
+</AUTHOR>
+<BIBLIO>
+mclellan,c.h.
+naca tn.2171, 1950.
+</BIBLIO>
+<TEXT>
  hypersonic tunnel .
   flow surveys have been made in
 the first of several nozzles to be
@@ -22,3 +34,5 @@ design flow were traced to the presence
 of a thick boundary layer which
 developed in the first step along the
 parallel walls .
+</TEXT>
+</DOC>

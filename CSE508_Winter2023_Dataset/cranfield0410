@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+410
+</DOCNO>
+<TITLE>
 the supersonic flow about a blunt body of revolution
 for gases at chemical equilibrium .
- 
+</TITLE>
+<AUTHOR>
+gravalos,f.g., edelflet,i.h. and emmons,h.
+</AUTHOR>
+<BIBLIO>
+9th int. astro. fed. 1958.
+</BIBLIO>
+<TEXT>
   the supersonic flow about a blunt body of
 revolution for gases at chemical
 equilibrium .  a method to determine the shock
@@ -23,3 +34,5 @@ mathematical formulations
 of the problem are avoided .  a physical interpretation of
 the method is made which
 is in accord with the analytical definition of the problem .
+</TEXT>
+</DOC>

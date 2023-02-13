@@ -1,9 +1,20 @@
-
+<DOC>
+<DOCNO>
+688
+</DOCNO>
+<TITLE>
 tables of aerodynamic coefficients obtained from developed newtonian
 expressions for complete and partial conic and spheric bodies at combined
 angles of attack and sideslip with some comparisons with hypersonic
 experimental data .
- 
+</TITLE>
+<AUTHOR>
+wells, w.r. and armstrong, w.o.
+</AUTHOR>
+<BIBLIO>
+nasa tr r -dash 127, 1962 .
+</BIBLIO>
+<TEXT>
 closed-form expressions and tables composed from these expressions are
 presented for complete and partial conic and spheric bodies at combined
 angles of attack and sideslip in newtonian flow . aerodynamic
@@ -26,3 +37,5 @@ for the bodies considered can be improved by using the stagnation pressure
 coefficient behind a normal shock rather than 2 as the newtonian
 coefficient, although for the sharp-nose half conic bodies there is no
 theoretical justification for this modification .
+</TEXT>
+</DOC>

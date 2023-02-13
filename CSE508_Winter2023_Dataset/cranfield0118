@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+118
+</DOCNO>
+<TITLE>
 the transonic flow of a compressible fluid through
 an axially symmetrical nozzle .
- 
+</TITLE>
+<AUTHOR>
+tomotika,s. and hasimoto,z.
+</AUTHOR>
+<BIBLIO>
+j.math.phys. 29, 1950, 105.
+</BIBLIO>
+<TEXT>
   by a method similar to that developed by s. tomotika
 and k. tamada (quart. appl. math. 7, 381-397 (1950),.
 these rev. 11, 275) for computing two-dimensional mixed
@@ -17,3 +28,5 @@ the other gives taylor's type of flow with a local supersonic
 region in the throat .  by varying a parameter, the latter
 branch approaches two asymptotes which yield meyer's
 type of asymmetrical flows .
+</TEXT>
+</DOC>

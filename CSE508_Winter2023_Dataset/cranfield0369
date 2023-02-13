@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+369
+</DOCNO>
+<TITLE>
 an approximate solution of the supersonic blunt body                   
 problem for prescribed arbitrary axisymmetric shapes .                 
- 
+</TITLE>
+<AUTHOR>
+traugott,s.                                                            
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 27, 1960, 361.                                             
+</BIBLIO>
+<TEXT>
   the integral method of belotserkovskii has been carried out to
 the first approximation for arbitrary blunt axisymmetric bodies
 in supersonic or hypersonic flight .  this method is direct, in
@@ -25,3 +36,5 @@ equations with unknown parameters does not occur .  one form
 of this method has been studied numerically .  results are given
 which, though only partially successful, indicate the amount of
 improvement to be expected from a higher approximation .
+</TEXT>
+</DOC>

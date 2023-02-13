@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1365
+</DOCNO>
+<TITLE>
 approximate calculation of the laminar boundary layer .
- 
+</TITLE>
+<AUTHOR>
+thwaites,b.
+</AUTHOR>
+<BIBLIO>
+aero. quart. 1, 1949-1950.
+</BIBLIO>
+<TEXT>
   after analyzing a large class of boundary-layer velocityprofiles,
 the author discovered that the functions l(m) and
 h(m) for all such cases differ only slightly from each other
@@ -18,3 +29,5 @@ form, v being the kinematic viscosity
 coefficient, and can be integrated numerically .  as
 examples, both howarth's and hartree's
 tained is considered good for practical purposes .
+</TEXT>
+</DOC>

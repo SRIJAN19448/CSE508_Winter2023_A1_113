@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+836
+</DOCNO>
+<TITLE>
 analytical and experimental investigation of stress distributions in
 long flat plates subjected to lingitudinal loads and transverse temperature
 gradients .
- 
+</TITLE>
+<AUTHOR>
+sprague, g.h. and huang, p.c.
+</AUTHOR>
+<BIBLIO>
+wadc tr 55-350, 1955 .
+</BIBLIO>
+<TEXT>
 stress and strain distributions were studied in long flat plates in
 order to develop practical analytical procedures for the design analysis
 of aircraft structures at elevated temperatures .
@@ -17,3 +28,5 @@ expansion .
 the test specimen, equipment, instrumentation, and experimental program
 are discussed in detail . experimental data obtained from the specimen
 and associated material control coupon tests are presented .
+</TEXT>
+</DOC>

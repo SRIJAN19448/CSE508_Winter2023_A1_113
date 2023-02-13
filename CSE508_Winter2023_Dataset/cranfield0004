@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+4
+</DOCNO>
+<TITLE>
 approximate solutions of the incompressible laminar
 boundary layer equations for a plate in shear flow .
- 
+</TITLE>
+<AUTHOR>
+yen,k.t.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 22, 1955, 728.
+</BIBLIO>
+<TEXT>
   the two-dimensional steady boundary-layer
 problem for a flat plate in a
 shear flow of incompressible fluid is considered .
@@ -13,3 +24,5 @@ technique .  comparison with
 the boundary layer of a uniform flow has also
 been made to show the effect of
 vorticity .
+</TEXT>
+</DOC>

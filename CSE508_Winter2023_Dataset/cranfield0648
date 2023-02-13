@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+648
+</DOCNO>
+<TITLE>
 the approximate analysis of certain boundary value
 problems .
- 
+</TITLE>
+<AUTHOR>
+conway,h.d.
+</AUTHOR>
+<BIBLIO>
+j. app. mech. 1960, 275.
+</BIBLIO>
+<TEXT>
 a simple method is given which is suitable
 for the approximate analysis of certain
 boundary-value problems, including, for
@@ -15,3 +26,5 @@ and equilateral-triangle plates, and the
 torsion of bars of square and hexagonal cross
 section .  the results agree well with
 the exact solutions, where these are known .
+</TEXT>
+</DOC>

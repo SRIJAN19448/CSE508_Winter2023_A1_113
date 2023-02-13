@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+828
+</DOCNO>
+<TITLE>
 stresses and small displacements of shallow spherical
 shells .
- 
+</TITLE>
+<AUTHOR>
+reissner,e.
+</AUTHOR>
+<BIBLIO>
+j. math. phys. 25, 1946, 80.
+</BIBLIO>
+<TEXT>
   the purpose of the present paper is to derive a system of
 equations which can be used for the analysis of shallow segments of
 thin, elastic, spherical shells .  a segment will be called shallow if
@@ -22,3 +33,5 @@ this problem is quite difficult and the results so far obtained are not
 easy to apply .  restricting attention to the shallow shell in the
 manner of the present paper brings with it a very considerable
 simplification of the analysis .
+</TEXT>
+</DOC>

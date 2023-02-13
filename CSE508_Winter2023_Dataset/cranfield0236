@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+236
+</DOCNO>
+<TITLE>
 criteria for thermodynamic equilibrium in gas flow .
- 
+</TITLE>
+<AUTHOR>
+rudin,m.
+</AUTHOR>
+<BIBLIO>
+phys.fluids, 1, 1958.
+</BIBLIO>
+<TEXT>
   when gases flow at high velocity, the rates
 of internal processes may not be fast enough to maintain
 thermodynamic equilibrium .  by defining
@@ -22,3 +33,5 @@ are given special consideration .  for cases when
 application of the criteria predict nonequilibrium,
 equations are provided in a form useful for numerical
 forward integration along streamlines .
+</TEXT>
+</DOC>

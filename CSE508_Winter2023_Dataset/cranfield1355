@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1355
+</DOCNO>
+<TITLE>
 boundary layer displacement effects in air at mach
 numbers of 6. 8 and 9. 6.
- 
+</TITLE>
+<AUTHOR>
+bertram,m.h.
+</AUTHOR>
+<BIBLIO>
+nasa tr.r22, 1959.
+</BIBLIO>
+<TEXT>
   measurements are presented for pressure gradients
 induced by a laminar boundary layer on a
 flat plate in air at a mach number of 9.6 and for the
@@ -25,3 +36,5 @@ laminar skin friction to the estimated pressure drag .
 the difference is, in general, explained by the increase
 in skin friction (20 to 40 percent) caused by
 the boundary-layer-induced pressures .
+</TEXT>
+</DOC>

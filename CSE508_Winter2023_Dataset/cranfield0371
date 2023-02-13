@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+371
+</DOCNO>
+<TITLE>
 note on tip-bluntness effects in the supersonic and
 hypersonic regimes .
- 
+</TITLE>
+<AUTHOR>
+bennett,f.d.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 24, 1957, 314.
+</BIBLIO>
+<TEXT>
 in a recent letter, m. h. bertram presents some data on
 flows at m = 6.85 around 10 half-angle cones with blunted
 tips .  since the demarcation between the supersonic and hypersonic
@@ -16,3 +27,5 @@ imply a reynolds number effect, giese and bergdolt study the
 convergence to conical flow of the perturbed flow about a cone
 with truncated tip .  they employ the mach-zehnder interferometer
 and the conical flow criterion as analytical tools .
+</TEXT>
+</DOC>

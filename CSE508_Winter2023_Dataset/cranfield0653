@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+653
+</DOCNO>
+<TITLE>
 transient magnetohydrodynamic duct flow .
- 
+</TITLE>
+<AUTHOR>
+lundgen,t.s., atabeck,b.h. and chang,c.c.
+</AUTHOR>
+<BIBLIO>
+phys. fluids 4, 1961, 1006.
+</BIBLIO>
+<TEXT>
   parallel flow of an electrically conducting viscous
 incompressible fluid in a rectangular duct with
 transverse magnetic field is considered .  the walls
@@ -18,3 +29,5 @@ the effect of the strength of the imposed magnetic
 field on the development behavior of the flow is
 studied .  it is found that except for very large magnetic
 fields, the flows are over damped .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1310
+</DOCNO>
+<TITLE>
 survey of inviscid hypersonic flow theory for geometrically
 slender shapes .
- 
+</TITLE>
+<AUTHOR>
+crabtree,l.f.
+</AUTHOR>
+<BIBLIO>
+rae tn. aero.2695, 1960.
+</BIBLIO>
+<TEXT>
   a survey is made of existing
 theories for the calculation of pressure
 distributions on slender bodies at
@@ -50,3 +61,5 @@ with which it is hoped to produce
 accurate design methods for estimating
 pressures and forces on shapes intended
 for sustained flight at hypersonic speeds .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+91
+</DOCNO>
+<TITLE>
 periodic temperature distribution in a two-layer composite slab .
- 
+</TITLE>
+<AUTHOR>
+w. f. campbell
+</AUTHOR>
+<BIBLIO>
+national aeronautical establishment, ottawa, ont., canada
+</BIBLIO>
+<TEXT>
 in a recent contribution to the reader's forum, under the above title,
 stonecypher outlined a method for finding the periodic temperature distribution
 in a two-layer composite slab, one exposed surface of the slab
@@ -15,3 +26,5 @@ a sinusoidal temperature variation with time .  the method is based on
 the analogy between one-dimensional heat flow and the flow of an electric
 current in a simple transmission line having only series resistance
 and parallel capacitance .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+276
+</DOCNO>
+<TITLE>
 reaction tests of turbine nozzles for supersonic velocities .
- 
+</TITLE>
+<AUTHOR>
+keenan,j.h.
+</AUTHOR>
+<BIBLIO>
+asme trans. 1949, 773.
+</BIBLIO>
+<TEXT>
   a machine for testing turbine nozzles by the reaction
 method, which was described in a previous paper, was
 used to test a series of convergent-divergent turbine
@@ -23,3 +34,5 @@ of this latter kind is good, and the disagreement which
 exists can be attributed largely to separation at the shock
 and to transmission of exhaust-pressure effects upstream
 through the boundary layer .
+</TEXT>
+</DOC>

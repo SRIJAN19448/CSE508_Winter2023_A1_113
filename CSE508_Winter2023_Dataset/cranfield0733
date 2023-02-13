@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+733
+</DOCNO>
+<TITLE>
 the bending of a sectorial plate .
- 
+</TITLE>
+<AUTHOR>
+carrier,g.f.
+</AUTHOR>
+<BIBLIO>
+j. app. mech. 11, 1944, 134.
+</BIBLIO>
+<TEXT>
   the problem of evaluating the bending moments, existing
 in a uniformly loaded clamped plate having the form
 of a sector of a ring, is one which arises in connection with
@@ -22,3 +33,5 @@ curves are also plotted which indicate the relationship
 existing between the maximum bending moments derived
 for sectorial plates and those previously obtained for
 clamped rectangular plates of similar size .
+</TEXT>
+</DOC>

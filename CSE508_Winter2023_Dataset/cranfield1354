@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+1354
+</DOCNO>
+<TITLE>
 investigation of the flow through a single stage two
 dimensional nozzle in the langley 11in . hypersonic
 tunnel .
- 
+</TITLE>
+<AUTHOR>
+mclellan,c.h.
+</AUTHOR>
+<BIBLIO>
+naca tn.2223, 1950.
+</BIBLIO>
+<TEXT>
   flow surveys have been made in
 the second of several nozzles to be
 investigated in the langley 11-inch
@@ -27,3 +38,5 @@ because of distortions of the boundaries
 at the first minimum due to
 nonuniform heating of the nozzle blocks
 during the tests .
+</TEXT>
+</DOC>

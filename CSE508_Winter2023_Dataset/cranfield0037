@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+37
+</DOCNO>
+<TITLE>
 a new technique for investigating heat transfer and
 surface phenomena under hypersonic flow conditions .
- 
+</TITLE>
+<AUTHOR>
+ferri,a. and libby,p.a.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 24, 1957, 464.
+</BIBLIO>
+<TEXT>
 on the forebody of many practically interesting hypersonic
 vehicles, there is little interaction between the inviscid
 flow field and the boundary layer .  therefore, inviscid flow theory
@@ -18,3 +29,5 @@ also be applied experimentally in order to provide, in conjunction
 with a conventional hypersonic wind-tunnel air supply, a
 means for investigating hypersonic heat transfer and surface
 phenomena under conditions of flight reynolds numbers .
+</TEXT>
+</DOC>

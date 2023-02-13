@@ -1,9 +1,20 @@
-
+<DOC>
+<DOCNO>
+1115
+</DOCNO>
+<TITLE>
 measurements of aerodynamic forces for various mean
 angles of attack on an airfoil oscillating in pitch
 and on two finite-span wings oscillating in bending
 with emphasis on damping in the stall .
- 
+</TITLE>
+<AUTHOR>
+rainey,a.g.
+</AUTHOR>
+<BIBLIO>
+naca r.1305, 1957.
+</BIBLIO>
+<TEXT>
   the oscillating air forces on a two-dimensional wing oscillating
 in pitch about the midchord have been measured at various
 mean angles of attack and at mach numbers of 0.35 and 0.7 .
@@ -19,3 +30,5 @@ the first bending mode indicate no regions of negative damping
 for this type of motion over the range of variables covered .  the
 damping measured at high angles of attack was generally larger
 than that at low angles of attack .
+</TEXT>
+</DOC>

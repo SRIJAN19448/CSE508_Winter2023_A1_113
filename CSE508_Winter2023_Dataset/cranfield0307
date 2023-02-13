@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+307
+</DOCNO>
+<TITLE>
 an approximate solution of hypersonic laminar boundary
 layer equations and its application .
- 
+</TITLE>
+<AUTHOR>
+nagakura,t. and naruse,h.
+</AUTHOR>
+<BIBLIO>
+j. phys. soc. japan, 12, 1957, 1298.
+</BIBLIO>
+<TEXT>
   approximate formulae of the displacement thickness and the skin
 friction of the hypersonic laminar boundary layer are derived by use of
 von karman's integral method, assuming the heat-insulated wall, the
@@ -21,3 +32,5 @@ entire region of the surface .  comparison
 with other author's theoretical
 results as well as experimental
 values is made .
+</TEXT>
+</DOC>

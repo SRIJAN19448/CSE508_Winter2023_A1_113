@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+468
+</DOCNO>
+<TITLE>
 a refinement of the linearised transonic flow theory .
- 
+</TITLE>
+<AUTHOR>
+hosowaka,a.
+</AUTHOR>
+<BIBLIO>
+j.phys.soc. japan, 15, 1960.
+</BIBLIO>
+<TEXT>
   a new method is proposed to calculate the velocity and pressure
 distributions around a thin symmetrical aerofoil or a slender body of
 revolution flying at transonic speed .  it is essentially a refinement
@@ -11,3 +22,5 @@ a symmetrical circular-arc aerofoil and a circular-arc body of
 revolution in the sonic flow are dealt with, and the results are found
 to be in good agreement with experiments, except for the rear portion in
 the latter case .
+</TEXT>
+</DOC>

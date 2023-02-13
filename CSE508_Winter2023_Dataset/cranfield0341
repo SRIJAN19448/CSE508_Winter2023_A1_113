@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+341
+</DOCNO>
+<TITLE>
 the analytical design of an axially symmetric laval
 nozzle for a parallel and uniform jet .
- 
+</TITLE>
+<AUTHOR>
+foelsch,k.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 16, 1949.
+</BIBLIO>
+<TEXT>
   the equations for the nozzle's contours are derived by integration
 of the characteristic equations of the axially symmetric flow .
 since it is not possible to integrate these equations mathematically
@@ -24,3 +35,5 @@ of a circle connected with the transition curve by a straight line .
 the gas dynamic properties of the boundary mach line are calculated
 in table 1, the use of which shortens the calculations considerably
 .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+114
+</DOCNO>
+<TITLE>
 response of plates to a decaying and convecting randon
 pressure field .
- 
+</TITLE>
+<AUTHOR>
+dyer,i.
+</AUTHOR>
+<BIBLIO>
+j.acous.s.am. 31, 1959, 922.
+</BIBLIO>
+<TEXT>
   following the methods of lyon, an analysis of the
 vibratory response of a plate to a random pressure
 field is given .  the pressure correlation of the random
@@ -22,3 +33,5 @@ speeds much smaller than the flexural speed, the use of
 hysteretic damping for reduction of the displacement
 response is shown to be limited by the decay of the
 assumed random pressure field .
+</TEXT>
+</DOC>

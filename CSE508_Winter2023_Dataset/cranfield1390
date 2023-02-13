@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1390
+</DOCNO>
+<TITLE>
 on the numerical calculation of detached bow shock
 waves in hypersonic flow .
- 
+</TITLE>
+<AUTHOR>
+garabedian,p.r. and liebersten,h.m.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 25, 1958, 109.
+</BIBLIO>
+<TEXT>
   a method is described for calculating examples of hypersonic
 flow with a detached bow shock wave past a bluff axially symmetric
 body .  the form of the shock wave is assumed, and the
@@ -18,3 +29,5 @@ detachment distance, the location of the sonic line, and the pressure
 distribution along the body are calculated .  these results are
 in excellent agreement with experimental data obtained at the
 california institute of technology .
+</TEXT>
+</DOC>

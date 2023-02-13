@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1168
+</DOCNO>
+<TITLE>
 damage incurred on a tilt-wing multipropeller vtol/stol
 aircraft operating over a level, gravel-covered surface .
- 
+</TITLE>
+<AUTHOR>
+pegg,r.j.
+</AUTHOR>
+<BIBLIO>
+nasa tn.d535, 1960.
+</BIBLIO>
+<TEXT>
   a summary is presented of the
 damage experienced by a tilt-wing
 vtol stol aircraft as a result of
@@ -21,3 +32,5 @@ blade skin, and damage to the compressor
 blades of the engine occurred
 due to the circulation of the
 crushed gravel .
+</TEXT>
+</DOC>

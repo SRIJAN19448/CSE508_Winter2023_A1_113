@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+557
+</DOCNO>
+<TITLE>
 a numerical comparison between exact and approximate
 theories of hypersonic inviscid flow past slender blunt
 nosed bodies .
- 
+</TITLE>
+<AUTHOR>
+cheng,k.h. and chang,a.l.
+</AUTHOR>
+<BIBLIO>
+ars j. 31, 1961.
+</BIBLIO>
+<TEXT>
   this note refers to paper of same title by feldman in ars j. 30,
 validity of blast wave theory cannot be justified on rational or
 theoretical grounds because of different values of energy in cross
@@ -15,3 +26,5 @@ when energy is calculated from flow quantities provided by-characteristics
 method .  results are checked using data from independent
 source .  conclusion is reached that blast wave theory is
 still valid .
+</TEXT>
+</DOC>

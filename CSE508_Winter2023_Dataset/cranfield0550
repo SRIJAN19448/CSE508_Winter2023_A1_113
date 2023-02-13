@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+550
+</DOCNO>
+<TITLE>
 laminar heat transfer in tubes under slip-flow conditions .
- 
+</TITLE>
+<AUTHOR>
+sparrow,e.m. and lin,s.h.
+</AUTHOR>
+<BIBLIO>
+asme paper 61-wa-165.
+</BIBLIO>
+<TEXT>
 the effects of low-density phenomena on the
 fully developed heat-transfer characteristics
 for laminar flow in tubes has been studied
@@ -17,3 +28,5 @@ extension of the results is made to include
 the effects of shear work at the wall, temperature
 jump modifications for a moving fluid,
 and thermal creep .
+</TEXT>
+</DOC>

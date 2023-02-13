@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+912
+</DOCNO>
+<TITLE>
 the axisymmetric free-convection temperature field
 along a vertical thin cylinder .
- 
+</TITLE>
+<AUTHOR>
+hama,p.r., recesso,j.v. and christiaens,j.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1959, 335.
+</BIBLIO>
+<TEXT>
   with a view to studying the effect of strong transverse curvature
 on boundary-layer problems, the axisymmetric free-convection
 problem along a vertical thin cylinder is investigated
@@ -17,3 +28,5 @@ and fifty times the radii of the cylinders, respectively .  experimental
 results of the local heat-transfer coefficient are in excellent
 agreement with the theory .  this, in turn, justifies the theories
 of laminar boundary layer along a thin cylinder, at least indirectly .
+</TEXT>
+</DOC>

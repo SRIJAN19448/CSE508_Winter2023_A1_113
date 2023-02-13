@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+251
+</DOCNO>
+<TITLE>
 a collection of longitudinal stability derivatives
 of wings at supersonic speeds .
- 
+</TITLE>
+<AUTHOR>
+naysmith,a.
+</AUTHOR>
+<BIBLIO>
+rae tn.aero.2423, 1956.
+</BIBLIO>
+<TEXT>
   a collection has been made of
 theoretical data, for wings alone, on
 those stability derivatives that govern
@@ -17,3 +28,5 @@ convenient form to show its extent,
 and to expose the parts of the field
 where experimental investigation is
 most needed .
+</TEXT>
+</DOC>

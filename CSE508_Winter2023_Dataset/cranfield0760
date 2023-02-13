@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+760
+</DOCNO>
+<TITLE>
 inelastic buckling of initially imperfect cylindrical
 shells subject to axial compression .
- 
+</TITLE>
+<AUTHOR>
+lee,l.h.n.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962, 87.
+</BIBLIO>
+<TEXT>
   an analytical and experimental study is made for inelastic
 instability of initially imperfect cylindrical shells subject to
 axial compression .  donnell's equations and the principle of
@@ -19,3 +30,5 @@ the incremental theory, which is mathematically and physically
 more rigorous, leads to an overestimation of buckling strength,
 even though initial imperfections are considered .  this paradox
 has existed for years, and remains to be resolved .
+</TEXT>
+</DOC>

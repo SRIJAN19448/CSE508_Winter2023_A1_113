@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+626
+</DOCNO>
+<TITLE>
 some features of supersonic and hypersonic flow about
 blunted cones .
- 
+</TITLE>
+<AUTHOR>
+traugott,s.c.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962, 389.
+</BIBLIO>
+<TEXT>
   for a family of cones of various semiapex angles blunted by
 spherical caps, shock shapes and surface pressure distributions
 have been obtained from both the belotserkovskii method and
@@ -19,3 +30,5 @@ blunting .  this is related to the fact that the surface entropy
 layer for blunt bodies can be most influential, in determining surface
 pressure, in the interior of the flow field rather than near
 the surface .
+</TEXT>
+</DOC>

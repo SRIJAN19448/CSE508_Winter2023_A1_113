@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+896
+</DOCNO>
+<TITLE>
 the calculation of loads on a supersonic weapon in
 the steady circling case .
- 
+</TITLE>
+<AUTHOR>
+seal,d.m.
+</AUTHOR>
+<BIBLIO>
+rae tn.struct.275, 1960.
+</BIBLIO>
+<TEXT>
   the economy of a design depends
 on the accuracy with which it is possible
 to solve the various structural problems
@@ -16,3 +27,5 @@ of a number of parameters, such as altitude,
 weight, acceleration and mach
 number - on the magnitude of the maximum
 bending moment .
+</TEXT>
+</DOC>

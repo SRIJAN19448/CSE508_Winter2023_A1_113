@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+379
+</DOCNO>
+<TITLE>
 reverse flow and variational theorems for lifting surfaces
 in nonstationary compressible flow .
- 
+</TITLE>
+<AUTHOR>
+flax,a.h.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 20, 1953.
+</BIBLIO>
+<TEXT>
   a reverse-flow theorem for compressible nonsteady flow, valid
 within the limits of linearized theory, is derived .  this theorem
 gives a general class of relations between linearized solutions for
@@ -15,3 +26,5 @@ flow and to the obtaining of influence functions for total
 lift, pitching moment, and rolling moment for a wing oscillating
 with arbitrary motion and surface deformation, in terms of the
 pressure distributions for simpler cases in reverse flow .
+</TEXT>
+</DOC>

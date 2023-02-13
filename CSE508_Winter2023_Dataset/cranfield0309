@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+309
+</DOCNO>
+<TITLE>
 on the motion of a flat plate at high speed in a viscous
 compressible fluid, ii, steady motion .
- 
+</TITLE>
+<AUTHOR>
+stewartson,k.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 22, 1955, 303.
+</BIBLIO>
+<TEXT>
   the theory of the steady flow of a viscous compressible fluid
 past a flat plate at high mach number due to lees and probstein
 is extended by a more complete discussion of the flow in
@@ -18,3 +29,5 @@ is found to be in deficit
 by 10 per cent for air .  finally,
 it is shown that the theory for weak interaction cannot be extended
 further without a complete knowledge of the flow .
+</TEXT>
+</DOC>

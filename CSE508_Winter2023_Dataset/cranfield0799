@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+799
+</DOCNO>
+<TITLE>
 some effects of wind-tunnel interference observed in tests on twodimensional
 aerofoils at high subsonic and transonic speeds .
- 
+</TITLE>
+<AUTHOR>
+pearcey, h.h., sinnott, c.s. and osborne, j.
+</AUTHOR>
+<BIBLIO>
+n.p.l. aero. 373. february 1959 .
+</BIBLIO>
+<TEXT>
 in the high-speed research on two-dimensional aerofoils at the national
 physical laboratory the need to keep model size above a certain minimum,
  in order to reproduce correctly the boundary layer separation effects
@@ -24,3 +35,5 @@ incidence or mach number, particularly for walls of small open area .
 examples are also given of effects of distortions in the local supersonic
 flow, which are most noticeable for walls with relatively large
 open areas .
+</TEXT>
+</DOC>

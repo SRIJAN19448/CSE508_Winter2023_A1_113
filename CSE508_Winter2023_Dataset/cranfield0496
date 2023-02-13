@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+496
+</DOCNO>
+<TITLE>
 a theory of transonic aileron buzz, neglecting viscous
 effects .
- 
+</TITLE>
+<AUTHOR>
+eckhaus,w.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962, 712.
+</BIBLIO>
+<TEXT>
   usaf-sponsored analysis of the unsteady perturbations of twodimensional
 transonic flow around an airfoil, where local supersonic
 regions terminated by shock waves are present in the vicinity of the
@@ -13,3 +24,5 @@ first approximation to the solution, are presented .  as a result of
 flutter analysis a stability boundary for transonic aileron buzz is
 obtained .  comparison of the theoretical results with experimental
 observations shows satisfactory agreement .
+</TEXT>
+</DOC>

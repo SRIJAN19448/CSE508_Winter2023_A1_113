@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+423
+</DOCNO>
+<TITLE>
 an experimental investigation of the flow over blunt-nosed
 cones at a mach number of 5. 8.
- 
+</TITLE>
+<AUTHOR>
+machell,r.m. and o'bryant,w.t.
+</AUTHOR>
+<BIBLIO>
+guggenheim aero. lab. memo 32, 1956.
+</BIBLIO>
+<TEXT>
   shock shapes were observed and static pressures were measured
 on spherically-blunted cones at a nominal mach number of 5.8 over a
 range of reynolds numbers per inch from 97,000 to 238,000, for angles
@@ -29,3 +40,5 @@ yaw compared very closely with the predictions of the modified newtonian
 approximation, except for models with large cone angles and small nose
 radii, where the drag approaches the value given by the taylor-maccoll
 theory for sharp cones .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+51
+</DOCNO>
+<TITLE>
 theory of aircraft structural models subjected to aerodynamic
 heating and external loads .
- 
+</TITLE>
+<AUTHOR>
+o'sullivan,w.j.
+</AUTHOR>
+<BIBLIO>
+naca tn.4115, 1957.
+</BIBLIO>
+<TEXT>
   the problem of investigating the simultaneous effects of transient
 aerodynamic heating and external loads on aircraft structures for the
 purpose of determining the ability of the structure to withstand flight
@@ -22,3 +33,5 @@ on the aircraft is determined for the case of zero angular velocity and
 zero angular acceleration, so that the structural model may be subjected
 to the external loads required for simultaneous simulation of stresses
 and deformations due to external loads .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+117
+</DOCNO>
+<TITLE>
 the motion of a viscous liquid past a paraboloid .
- 
+</TITLE>
+<AUTHOR>
+mather,d.j.
+</AUTHOR>
+<BIBLIO>
+q.j.mech.app.math. 14, 1961, 423.
+</BIBLIO>
+<TEXT>
   an approximate solution for the steady
 flow of incompressible viscous liquid past
 a paraboloid of revolution is described .
@@ -21,3 +32,5 @@ solution tends to the perfect fluid
 flow away from the boundary, allowance
 being made for the displacement effect of
 what may be called the boundary layer .
+</TEXT>
+</DOC>

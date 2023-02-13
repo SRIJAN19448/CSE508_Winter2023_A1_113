@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1319
+</DOCNO>
+<TITLE>
 real gas effects in flow over blunt bodies at hypersonic speeds .
- 
+</TITLE>
+<AUTHOR>
+nagamatsu, h.t., geiger r.e. and sheet, r.e.
+</AUTHOR>
+<BIBLIO>
+arc 21, 083, june 1959 .
+</BIBLIO>
+<TEXT>
 a hypersonic shock tunnel has been developed to investigate the aerodynamic
 characteristics of flow over bodies at conditions comparable to
 those encountered by ballistic missiles and satellites re-entering the
@@ -25,3 +36,5 @@ boundary layer on a flat plate are correlated with the analytical prediction
 . some preliminary results for the detached shock wave produced
 by a blunt two-dimensional body in a low density flow at a mach number
 of 19.6 are presented .
+</TEXT>
+</DOC>

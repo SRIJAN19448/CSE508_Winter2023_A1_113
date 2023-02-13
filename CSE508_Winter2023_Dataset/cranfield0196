@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+196
+</DOCNO>
+<TITLE>
 pressure distributions . axially symmetric bodies in
 oblique flow .
- 
+</TITLE>
+<AUTHOR>
+campbell,i.j. and lewis,r.g.
+</AUTHOR>
+<BIBLIO>
+arc cp213, 1955.
+</BIBLIO>
+<TEXT>
   a simple picture, known from the work of i. lotz, of the flow over
 the forward part of a body of revolution in oblique flow is derived
 here from entirely elementary considerations .  the pressure at any
@@ -17,3 +28,5 @@ point on the head shapes at any angle of incidence (up to 6, say) .
 in particular they can be used to determine the peak suction at any
 angle of incidence and so the conditions for the onset of cavitation
 on the head .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+744
+</DOCNO>
+<TITLE>
 lower buckling load in the non-linear buckling theory
 of thin shells .
- 
+</TITLE>
+<AUTHOR>
+tsien,h.s.
+</AUTHOR>
+<BIBLIO>
+q. app. math. 5, 1947, 236.
+</BIBLIO>
+<TEXT>
   for thin shells the relation between
 the load p and the deflection beyond the
 classical buckling load is very often
@@ -19,3 +30,5 @@ and the branch bc to unstable equilibrium
 configurations .  the point b is then
 the point of transition from stable to unstable
 equilibrium configurations .
+</TEXT>
+</DOC>

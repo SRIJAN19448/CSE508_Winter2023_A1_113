@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+36
+</DOCNO>
+<TITLE>
 supersonic flow around blunt bodies .
- 
+</TITLE>
+<AUTHOR>
+serbin,h.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 25, 1958, 58.
+</BIBLIO>
+<TEXT>
 the newtonian theory of impact has been shown to be
 useful for pressure calculations on the forward facing part
 of bodies moving at high speed .  it is now a familiar practice
@@ -15,3 +26,5 @@ missiles, there will be a greater need for more accurate aerodynamic
 theories either to predict what will happen in unfamiliar
 flight conditions or to effect an extrapolation from a known test
 result to the design condition .
+</TEXT>
+</DOC>

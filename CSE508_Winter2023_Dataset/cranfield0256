@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+256
+</DOCNO>
+<TITLE>
 an experimental study of the glancing interaction between
 a shock wave and a turbulent boundary layer .
- 
+</TITLE>
+<AUTHOR>
+stanbrook,a.
+</AUTHOR>
+<BIBLIO>
+arc cp.555, 1960.
+</BIBLIO>
+<TEXT>
   an experimental study has been made at mach numbers from 1.6 to 2.0 of
 the interaction between the turbulent
 boundary layer on a side wall of a wind
@@ -18,3 +29,5 @@ type occur on the sides of fuselages at
 the wing fuselage junction and may
 therefore be important with regard to the
 design of waisted shapes .
+</TEXT>
+</DOC>

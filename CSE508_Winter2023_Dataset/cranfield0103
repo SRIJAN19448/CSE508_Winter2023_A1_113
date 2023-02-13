@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+103
+</DOCNO>
+<TITLE>
 theory of mixing and chemical reaction in the opposed
 jet diffusion flame .
- 
+</TITLE>
+<AUTHOR>
+spalding,d.b.
+</AUTHOR>
+<BIBLIO>
+a.r.s. jnl. 31, 1961, 763.
+</BIBLIO>
+<TEXT>
   an idealization of the flow system used by potter
 and butler is analyzed .  the differential equation
 of mixing is solved exactly, to give the location
@@ -17,3 +28,5 @@ data of potter, heimel and butler .  it is argued that
 experiments must be carried out at higher
 reynolds numbers if the measurements are to be quantitatively
 analyzable .
+</TEXT>
+</DOC>

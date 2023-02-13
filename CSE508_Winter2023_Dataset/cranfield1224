@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1224
+</DOCNO>
+<TITLE>
 on the plk method and the supersonic blunt-body problem .
- 
+</TITLE>
+<AUTHOR>
+vaglio-laurin,r.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1962, 185.
+</BIBLIO>
+<TEXT>
   detailed analysis of the subsonic and transonic portious of the
 flow field about either very blunt or asymmetric configurations
 requires successive approximations,. these can be carried out in a
@@ -27,3 +38,5 @@ application and comparison with experiment,. results are
 presented for a disk set normal to a low-termperature air stream
 at m = 4.76, and for a highly asymmetric two-dimensional
 configuration at m = 8 .
+</TEXT>
+</DOC>

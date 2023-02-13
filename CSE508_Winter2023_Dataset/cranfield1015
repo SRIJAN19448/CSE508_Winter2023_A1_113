@@ -1,6 +1,15 @@
-
+<DOC>
+<DOCNO>
+1015
+</DOCNO>
+<TITLE>
 principles of creep buckling weight-strength analysis
- 
+</TITLE>
+<AUTHOR>
+</AUTHOR>
+<BIBLIO>
+</BIBLIO>
+<TEXT>
   the determination of column deflections and
 column buckling loads has been considered for
 many years .  the available theories, however,
@@ -20,3 +29,5 @@ this paper gives a rational theory for predicting
 creep deflections in columns .  a special case
 using this theory is applied to the interpretation of
 some preliminary tests of an aluminum alloy .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1116
+</DOCNO>
+<TITLE>
 general instability of stiffened cylinders .
- 
+</TITLE>
+<AUTHOR>
+becker,h.
+</AUTHOR>
+<BIBLIO>
+naca tn.4237, 1958.
+</BIBLIO>
+<TEXT>
   theoretical buckling stresses
 are determined in explicit form for
 circular cylinders with circumferential
@@ -15,3 +26,5 @@ equation derived by taylor which is
 applicable to orthotropic cylinders .
 the derivation of this equation is
 presented in this report .
+</TEXT>
+</DOC>

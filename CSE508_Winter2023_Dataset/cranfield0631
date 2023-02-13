@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+631
+</DOCNO>
+<TITLE>
 low speed wind tunnel tests on a two dimensional aerofoil
 with split flap near the ground .
- 
+</TITLE>
+<AUTHOR>
+bagley,j.a.
+</AUTHOR>
+<BIBLIO>
+arc cp.568, 1961.
+</BIBLIO>
+<TEXT>
   pressure distributions have been
 measured on a 10 thick two-dimensional
 aerofoil of r.a.e.101 section fitted with
@@ -11,3 +22,5 @@ above a ground plate, and also without
 the ground plate .  the results have been
 integrated to give the sectional
 lift, drag and pitching-moment coefficients .
+</TEXT>
+</DOC>

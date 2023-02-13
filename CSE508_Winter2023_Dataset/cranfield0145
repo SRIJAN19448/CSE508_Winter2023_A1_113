@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+145
+</DOCNO>
+<TITLE>
 skin friction in the laminar boundary layer in compressible
 flow .
- 
+</TITLE>
+<AUTHOR>
+young,a.d.
+</AUTHOR>
+<BIBLIO>
+aero.quart. 1, 1949, 137.
+</BIBLIO>
+<TEXT>
   from an analysis of the work of
 crocco and others, semi-empirical formulae
 are derived for the skin friction on a
@@ -20,3 +31,5 @@ the method indicates that with increase of
 mach number there is a marked forward
 movement of separation from a flat plate
 in the presence of a constant adverse velocity gradient .
+</TEXT>
+</DOC>

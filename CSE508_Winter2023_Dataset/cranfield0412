@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+412
+</DOCNO>
+<TITLE>
 critical combinations of shear and transverse direct
 stress for an infinitely long flat plate with
- 
+</TITLE>
+<AUTHOR>
+batdorf,s.b. and houbolt,j.c.
+</AUTHOR>
+<BIBLIO>
+edges elastically restrained against rotation.
+</BIBLIO>
+<TEXT>
   an exact solution and a closely concurring approximate
 energy solution are given for the buckling of an infinitely long
 flat plate under combined shear and transverse direct stress
@@ -11,3 +22,5 @@ may be applied to the plate without any reduction in the transverse
 compressive stress necessary to produce buckling .  an
 interaction formula in general use was shown to be decidedly
 conservative for the range in which it is supposed to apply .
+</TEXT>
+</DOC>

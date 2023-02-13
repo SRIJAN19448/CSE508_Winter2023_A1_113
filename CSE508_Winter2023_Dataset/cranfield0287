@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+287
+</DOCNO>
+<TITLE>
 some theoretical low-speed loading characteristics
 of swept wings in roll and sideslip .
- 
+</TITLE>
+<AUTHOR>
+bird,j.d.
+</AUTHOR>
+<BIBLIO>
+naca r969, 1950.
+</BIBLIO>
+<TEXT>
   the weissinger method for determining additional span
 loading for incompressible flow is used to find the damping in
 roll, the lateral center of pressure of the rolling load, and the
@@ -17,3 +28,5 @@ indicates that the method of weissinger is well suited to the
 calculation of the additional span loading caused by rolling
 and for the calculation of such resulting aerodynamic derivatives
 of wings as do not involve considerations of tip suction .
+</TEXT>
+</DOC>

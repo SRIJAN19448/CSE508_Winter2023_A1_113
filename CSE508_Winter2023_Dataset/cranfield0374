@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+374
+</DOCNO>
+<TITLE>
 an investigation of optimum zoom climb techniques .
- 
+</TITLE>
+<AUTHOR>
+kelly,h.j.
+</AUTHOR>
+<BIBLIO>
+j. ae.scs. 26, 1959, 794.
+</BIBLIO>
+<TEXT>
   the problem of optimal zoom climb maneuvering of a turbojet
 aircraft has been investigated using the mayer formulation of the
 calculus of variations .  the euler-lagrange equations governing
@@ -14,3 +25,5 @@ derived .
 optimum, and it has been found that performance is relatively
 insensitive to piloting technique unless a time limitation is imposed
 which requires high maneuvering load factors .
+</TEXT>
+</DOC>

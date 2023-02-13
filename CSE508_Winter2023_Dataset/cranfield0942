@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+942
+</DOCNO>
+<TITLE>
 secondary gas injection in a conical rocket nozzle .
- 
+</TITLE>
+<AUTHOR>
+walker,r.e., stone,a.r. and shandor,m.
+</AUTHOR>
+<BIBLIO>
+aiaa jnl. u, 1963, 334.
+</BIBLIO>
+<TEXT>
   data are presented on side forces generated
 by secondary gas injection in a 15 conical
 rocket exhaust nozzle .  the side force was measured
@@ -18,3 +29,5 @@ injectant flow rate was varied for each configuration .
 the main propellant was hot gas (catalytically
 decomposed), and motor conditions
 were held essentially constant .
+</TEXT>
+</DOC>

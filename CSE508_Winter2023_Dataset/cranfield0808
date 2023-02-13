@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+808
+</DOCNO>
+<TITLE>
 an investigation of some aspects of the sonic boom
 by means of wind tunnel measurements of pressures about
 several bodies at a mach number of 2. 01 .
- 
+</TITLE>
+<AUTHOR>
+carlson,h.w.
+</AUTHOR>
+<BIBLIO>
+nasa tn.d161, 1959.
+</BIBLIO>
+<TEXT>
   an investigation of some aspects
 of the sonic boom has been made
 with the aid of wind-tunnel measurements
@@ -30,3 +41,5 @@ may be replaced by equivalent
 bodies of revolution to obtain satisfactory
 theoretical estimates
 of the far-field pressures .
+</TEXT>
+</DOC>

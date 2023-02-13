@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1127
+</DOCNO>
+<TITLE>
 the buckling of sandwich type panels .
- 
+</TITLE>
+<AUTHOR>
+hoff,n.h. and mautner,s.f.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1945, 285.
+</BIBLIO>
+<TEXT>
   fifty-one flat rectangular sandwich-type panels were tested
 in edgewise compression with the unloaded edges of the panels
 restrained by v-grooves .  the sandwich consisted of papreg
@@ -20,3 +31,5 @@ buckling stress is reasonable, that between the predicted
 and actual buckled shape good .  a simple formula is developed
 which permits a choice of the most suitable core material when the
 mechanical properties of the face material are given .
+</TEXT>
+</DOC>

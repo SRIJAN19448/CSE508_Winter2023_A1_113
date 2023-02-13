@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+462
+</DOCNO>
+<TITLE>
 photo-thermoelasticity .
- 
+</TITLE>
+<AUTHOR>
+gerard,g and gilbert,a.c.
+</AUTHOR>
+<BIBLIO>
+j.app.mech. 24, 1957.
+</BIBLIO>
+<TEXT>
   this paper summarizes the optical and physical properties
 of the photoelastic model material paraplex p-43 over
 the temperature range from room temperature to -40 f .
@@ -18,3 +29,5 @@ photographic results of an exploratory investigation of the
 thermal-shock phenomenon produced by the sudden application
 of a temperature differential upon plastic beams
 of various length-depth ratios .
+</TEXT>
+</DOC>

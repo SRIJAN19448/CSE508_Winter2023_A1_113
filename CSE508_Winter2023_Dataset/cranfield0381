@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+381
+</DOCNO>
+<TITLE>
 the axisymmetric boundary layer on a long thin cylinder .
- 
+</TITLE>
+<AUTHOR>
+glauert,m.b. and lighthill,m.j.
+</AUTHOR>
+<BIBLIO>
+proc. roy. soc. a, 230, 1955, 188.
+</BIBLIO>
+<TEXT>
 the laminar boundary layer in axial flow about
 a long thin cylinder is investigated by two
 methods .  one (2) is a pohlhausen method,
@@ -31,3 +42,5 @@ axis,. this is the profile used in the pohlhausen
 method .  the analogy with the distribution
 of mean velocity in turbulent flow over a flat
 plate is discussed at the end of 2 .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+592
+</DOCNO>
+<TITLE>
 design of axial compressors .
- 
+</TITLE>
+<AUTHOR>
+howell, a.r.
+</AUTHOR>
+<BIBLIO>
+proc. i mech. e. v. 153, 1945 .
+</BIBLIO>
+<TEXT>
 the main types of axial compressors are described, and the use of generalized
 design curves to make performance estimates is advocated . the
 different variables are weight, power, pressure ratio, temperature rise,
@@ -8,3 +19,5 @@ different variables are weight, power, pressure ratio, temperature rise,
 due to aerodynamic loading, and methods and materials of construction .
 air outlets, flow coefficients and different blade forms are also considered
 .
+</TEXT>
+</DOC>

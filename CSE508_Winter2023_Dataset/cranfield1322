@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1322
+</DOCNO>
+<TITLE>
 qualitiative solutions of the stability equation for a boundary layer in
  contact with various forms of flexible surface .
- 
+</TITLE>
+<AUTHOR>
+nonweiler, t.r.f.
+</AUTHOR>
+<BIBLIO>
+arc, 22670, march 1961 .
+</BIBLIO>
+<TEXT>
 an appropriate form of the boundary layer stability equation is
 developed for the condition where the fluid is in contact with an isotropic
 and homogeneous elastic medium, and various approximate analytical
@@ -23,3 +34,5 @@ limit as well . indeed, a sufficiently thin free surface, or one of low
 rigidity, apparently eliminates neutral oscillations of this mode altogether,
 only at the expense, however, of the introduction of a mode of
 flexural waves .
+</TEXT>
+</DOC>

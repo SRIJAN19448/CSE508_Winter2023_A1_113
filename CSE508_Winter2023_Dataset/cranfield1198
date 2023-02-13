@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1198
+</DOCNO>
+<TITLE>
 the blunt-leading-edge problem in hypersonic flow .
- 
+</TITLE>
+<AUTHOR>
+oguchi,h.
+</AUTHOR>
+<BIBLIO>
+aiaa jnl. u, 1963, 361.
+</BIBLIO>
+<TEXT>
   the present paper is mainly concerned with
 the hypersonic flow over a flat plate with a
 blunt nose .  the analysis is based on the flow
@@ -38,3 +49,5 @@ numerical results, and the region of the validity
 has been found to extend over a certain large range
 of the nondimensional distance from the
 leading edge .
+</TEXT>
+</DOC>

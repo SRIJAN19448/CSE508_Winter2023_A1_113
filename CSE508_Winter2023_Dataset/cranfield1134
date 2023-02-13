@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1134
+</DOCNO>
+<TITLE>
 torispherical shells - a caution to designers .
- 
+</TITLE>
+<AUTHOR>
+galletly,g.d.
+</AUTHOR>
+<BIBLIO>
+j. eng. for industry, 1959, 51.
+</BIBLIO>
+<TEXT>
   it has recently become apparent, through
 a rigorous stress analysis of a specific case
 that designing torispherical shells by the
@@ -40,3 +51,5 @@ of the membrane state as a particular solution
 of the differential equations is not a
 good approximation for toroidal shells of the
 type considered .
+</TEXT>
+</DOC>

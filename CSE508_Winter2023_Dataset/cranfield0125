@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+125
+</DOCNO>
+<TITLE>
 measurements of skin friction of the compressible turbulent
 boundary layer on a cone with foreign gas injection .
- 
+</TITLE>
+<AUTHOR>
+pappas,c.c. and okuno,a.f.
+</AUTHOR>
+<BIBLIO>
+j.aero.scs. 27, 1960, 321.
+</BIBLIO>
+<TEXT>
   measurements of average skin friction of the turbulent boundary
 layer have been made on a 15 total included angle cone with
 foreign gas injection .  measurements of total skin-friction drag
@@ -22,3 +33,5 @@ with natural transition, is dependent on the flow reynolds number
 and type of injected gas,. and at the high injection rates the
 skin friction is in fair agreement with the turbulent boundarylayer
 results .
+</TEXT>
+</DOC>

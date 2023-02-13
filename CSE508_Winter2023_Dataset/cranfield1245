@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1245
+</DOCNO>
+<TITLE>
 some aspects of nonequilibrium flows .
- 
+</TITLE>
+<AUTHOR>
+sedney,r.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1961, 189.
+</BIBLIO>
+<TEXT>
   in this paper are discussed some of the general features of nonequilibrium
 flow .  in particular, vibrational relaxation is discussed
 in detail .  this case is somewhat simpler than dissociation
@@ -18,3 +29,5 @@ two particular flows .  an exact solution for flow over a
 cusped body is obtained .  flow over a wedge near the tip and
 far from the tip is considered .  it is found that far from the tip
 a boundary-layer type phenomenon occurs .
+</TEXT>
+</DOC>

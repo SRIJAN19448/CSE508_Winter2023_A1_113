@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+283
+</DOCNO>
+<TITLE>
 laminar heat transfer around blunt bodies in dissociated
 air .
- 
+</TITLE>
+<AUTHOR>
+kemp,n.h., rose,p.h. and detra,r.w.
+</AUTHOR>
+<BIBLIO>
+j.ae.sc. 26, 1959.
+</BIBLIO>
+<TEXT>
   a method of predicting laminar heat-transfer rates to blunt,
 highly cooled bodies with constant wall temperature in dissociated
 air flow is developed .  attention is restricted to the case of axisymmetric
@@ -20,3 +31,5 @@ on the whole, the agreement is good, although in regions of rapidly
 varying pressure there is evidence that the local similarity
 assumption breaks down, and the theory underestimates the
 actual heat-transfer rate by up to 25 per cent .
+</TEXT>
+</DOC>

@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+600
+</DOCNO>
+<TITLE>
 the calculation of lateral stability derivatives of
 slender wings at incidence including fin effectiveness,
 and correlation with experiment .
- 
+</TITLE>
+<AUTHOR>
+ross,a.j.
+</AUTHOR>
+<BIBLIO>
+rae r.aero.2647, 1961.
+</BIBLIO>
+<TEXT>
   comparisons are made between
 low-speed experimental results and
 estimates based on attached-flow
@@ -33,3 +44,5 @@ and position of the leading edge
 vortices in non-symmetric flow is required
 before a complete calculation of
 the sidewash can be given .
+</TEXT>
+</DOC>

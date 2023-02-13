@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1180
+</DOCNO>
+<TITLE>
 approximate analysis of the slot injection of a gas
 in laminar flow .
- 
+</TITLE>
+<AUTHOR>
+libby,p.a. and schetz,j.a.
+</AUTHOR>
+<BIBLIO>
+aiaa jnl. 1963, 1056.
+</BIBLIO>
+<TEXT>
   the laminar diffusion and combustion of a gas
 injected into a high-speed uniform stream by
 means of a wall slot are considered .  the dorodnitzinhowarth
@@ -24,3 +35,5 @@ supersonic deflagration .  a numerical example of
 practical interest in connection with the
 venting of gaseous hydrogen boiloff from a rocket
 booster is presented .
+</TEXT>
+</DOC>

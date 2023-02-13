@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+459
+</DOCNO>
+<TITLE>
 on the solution of the laminar boundary layer equations .
- 
+</TITLE>
+<AUTHOR>
+tani,i.
+</AUTHOR>
+<BIBLIO>
+j.phys.soc.japan, 4, 1949, 149.
+</BIBLIO>
+<TEXT>
   the theory of the laminar boundary layer
 offers a means of determining the skin friction
 under the assumption of a given velocity distribution
@@ -36,3 +47,5 @@ by the conditions upstream only in so far as this
 affects the momentum thickness 0 .  in other words,
 the velocity distribution across the boundary layer
 is determined by a parameter .
+</TEXT>
+</DOC>

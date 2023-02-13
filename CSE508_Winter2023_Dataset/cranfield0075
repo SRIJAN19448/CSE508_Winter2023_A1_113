@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+75
+</DOCNO>
+<TITLE>
 studies of structural failure due to acoustic loading .
- 
+</TITLE>
+<AUTHOR>
+hess,n.w.
+</AUTHOR>
+<BIBLIO>
+naca tn.4050, 1957.
+</BIBLIO>
+<TEXT>
   some discussion of the acoustic fatigue problem of aircraft structures
 is given along with data pertaining to the acoustic inputs from
 some powerplants in common use .  comparisons are given for results of
@@ -11,3 +22,5 @@ hence, no generalization can be made at this time .  with regard to
 increasing the fatigue life, it was noted that increased stiffening of
 a panel due to curvature and pressure differential is particularly
 beneficial .
+</TEXT>
+</DOC>

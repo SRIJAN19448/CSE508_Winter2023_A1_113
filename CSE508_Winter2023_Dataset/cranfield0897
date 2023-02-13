@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+897
+</DOCNO>
+<TITLE>
 some results on buckling and postbuckling of cylindrical
 shells .
- 
+</TITLE>
+<AUTHOR>
+kempner,j.
+</AUTHOR>
+<BIBLIO>
+nasa tn.d1510, 1962, 173.
+</BIBLIO>
+<TEXT>
   in this summary paper, the
 effects of initial deformations on the
 buckling and postbuckling characteristics
@@ -21,3 +32,5 @@ formula for the classical buckling
 stress of a circular cylindrical
 shell leads to good results for moderate
 eccentricities .
+</TEXT>
+</DOC>

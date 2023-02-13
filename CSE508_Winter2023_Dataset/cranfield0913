@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+913
+</DOCNO>
+<TITLE>
 vibrations of beams on many supports .
- 
+</TITLE>
+<AUTHOR>
+miles,j.w.
+</AUTHOR>
+<BIBLIO>
+proc. a.s.c.e., 82, 1956.
+</BIBLIO>
+<TEXT>
   the natural frequencies of a continuous
 beam resting on an arbitrary number
 of uniformly spaced supports are
@@ -20,3 +31,5 @@ infinite, periodically supported beam
 is discussed and the phase and group
 velocities evaluated as functions of frequency
 .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+660
+</DOCNO>
+<TITLE>
 the fundamental solution for small steady three dimensional
 disturbances to a two dimensional parallel shear flow .
- 
+</TITLE>
+<AUTHOR>
+lighthill,m.j.
+</AUTHOR>
+<BIBLIO>
+j. fluid mech. 3, 1957, 113.
+</BIBLIO>
+<TEXT>
   after a brief review of methods of calculating the flow
 fields produced by disturbances in rotational basic flows,
 the author points out a fundamental difficulty in the
@@ -33,3 +44,5 @@ m. b. glauert, is given, and finally the relationship of the
 present work to theories of the displacement of the
 stagnation streamline (displacement effect of pitot
 tubes) is discussed .
+</TEXT>
+</DOC>

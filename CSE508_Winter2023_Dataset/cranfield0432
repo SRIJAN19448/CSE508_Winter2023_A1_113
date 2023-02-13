@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+432
+</DOCNO>
+<TITLE>
 theoretical damping in roll and rolling moment due
 to differential wing incidence for slender cruciform
 wings and wing-body combinations .
- 
+</TITLE>
+<AUTHOR>
+adams,g.j. and dugan,d.w.
+</AUTHOR>
+<BIBLIO>
+naca r1088, 1952.
+</BIBLIO>
+<TEXT>
   a method of analysis based on slender-wing theory is developed
 to investigate the characteristics in roll of slender cruciform wings
 and wing-body combinations .  the method makes use of the
@@ -26,3 +37,5 @@ for a corresponding planar wing-body combination .
 unit surface deflection) of the cruciform wing-body arrangement
 having four equally deflected panels is therefore 94 percent of
 the corresponding planar wing-body combination .
+</TEXT>
+</DOC>

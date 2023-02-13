@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+785
+</DOCNO>
+<TITLE>
 the flow of fluid along cylinders .
- 
+</TITLE>
+<AUTHOR>
+cooke, j.c.
+</AUTHOR>
+<BIBLIO>
+quart. j. mech. app. math, vol.x /3/, 1957, p. 312-321 .
+</BIBLIO>
+<TEXT>
 the boundary layer equations for uniform flow parallel to the generators
  of any cylinder without corners are put into the form of a series of
 linear third-order differential equations . the first three of these are
@@ -14,3 +25,5 @@ expansion for the drag . explicit calculations are made of the drag of
 an elliptic cylinder of eccentricity 1/2 3 . there is evidence that the
 drag is everywhere less than that of a circular cylinder of the same
 perimeter .
+</TEXT>
+</DOC>

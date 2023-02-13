@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1368
+</DOCNO>
+<TITLE>
 three dimensional viscous wakes .
- 
+</TITLE>
+<AUTHOR>
+steiger,m.h. and bloom,m.h.
+</AUTHOR>
+<BIBLIO>
+j.fluid mech. 14, 1962,233.
+</BIBLIO>
+<TEXT>
 the velocity fields of three-dimensional
 viscous wakes are examined with the
 use of the boundary-layer approximations,
@@ -14,3 +25,5 @@ initial isovels (lines of constant velocity)
 are of elliptic shape and their decay
 to axial symmetry are demonstrated .
 both laminar and turbulent flows are considered .
+</TEXT>
+</DOC>

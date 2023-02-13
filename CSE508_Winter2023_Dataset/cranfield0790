@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+790
+</DOCNO>
+<TITLE>
 a wind-tunnel test technique for measuring the dynamic rotary
 stability derivatives at subsonic and supersonic speeds .
- 
+</TITLE>
+<AUTHOR>
+report 1258
+</AUTHOR>
+<BIBLIO>
+benjamin h. beam
+</BIBLIO>
+<TEXT>
 a method is described for measuring the dynamic stability derivatives
 of a model airplane in a wind tunnel .  the characteristic features
 of this system are that single-degree-of-freedom oscillations were
@@ -22,3 +33,5 @@ derivatives are of particular importance in estimating the short-period
 oscillatory motions of a rigid airplane .
 a small number of experimental data are included to illustrate the
 general scope of results obtainable with this system .
+</TEXT>
+</DOC>

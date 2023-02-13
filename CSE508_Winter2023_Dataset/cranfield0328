@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+328
+</DOCNO>
+<TITLE>
 the boundary layer near the stagnation point in hypersonic
 flow past a sphere .
- 
+</TITLE>
+<AUTHOR>
+herring,t.r.
+</AUTHOR>
+<BIBLIO>
+j. fluid mech. 7, 1960, 257.
+</BIBLIO>
+<TEXT>
   flow properties behind shock waves caused by bluff bodies
 traveling at supersonic speeds are of major importance in missile
 and high-speed aircraft design .  paper presents a mathematical solution
@@ -31,3 +42,5 @@ this approach .  the effect on transport properties could have been
 approximated in present analysis by changing the prandtl number
 to one more representative of the existing pressures and temperatures
 .
+</TEXT>
+</DOC>

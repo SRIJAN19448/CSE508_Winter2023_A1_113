@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+347
+</DOCNO>
+<TITLE>
 boundary layer measurements in hypersonic flow .
- 
+</TITLE>
+<AUTHOR>
+hill,f.k.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 21, 1954, 433.
+</BIBLIO>
+<TEXT>
   experimental data are presented on boundary-layer formation,
 heat transfer, and skin-friction coefficient at mach numbers of
 the wall of a conical nozzle in the presence of a favorable pressure
@@ -13,3 +24,5 @@ cent when compared with a form of the wilson theory, but it is
 clear that the effects of heat transfer and pressure gradients present
 problems which require extensive study and experiment in
 the future .
+</TEXT>
+</DOC>

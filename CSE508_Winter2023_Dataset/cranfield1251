@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1251
+</DOCNO>
+<TITLE>
 viscous flow past a quarter infinite plate .
- 
+</TITLE>
+<AUTHOR>
+stewartson,k.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1961, 1.
+</BIBLIO>
+<TEXT>
   a study is made of the motion of an incompressible viscous
 fluid past a quarter-infinite plate, whose leading edge is perpendicular
 to and whose side edge is parallel to the undisturbed
@@ -20,3 +31,5 @@ care, because the determination of the chief terms is complicated
 by the presence of powers of log .  in particular it is shown
 that the effect of the edge is to change the skin-friction coefficient
 by a factor
+</TEXT>
+</DOC>

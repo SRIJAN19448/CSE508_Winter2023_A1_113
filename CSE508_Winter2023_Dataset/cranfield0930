@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+930
+</DOCNO>
+<TITLE>
 general theory of large deflections of thin shells
 with special applications to conical shells .
- 
+</TITLE>
+<AUTHOR>
+dill,e.h.
+</AUTHOR>
+<BIBLIO>
+nasa tn.d826, 1961.
+</BIBLIO>
+<TEXT>
   a general theory is developed for the case of large deflections
 but with rotations of the elements negligible compared to unity .  the
 derivation is carried out in tensor form and therefore any coordinate
@@ -13,3 +24,5 @@ equations in a stress function and the deflection normal to the
 shell .  for shells forming a surface of revolution the results are
 indicated in terms of the equation of the generating curve .  the
 differential equations for the conical shell are then listed .
+</TEXT>
+</DOC>

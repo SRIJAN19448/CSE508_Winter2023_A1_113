@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+166
+</DOCNO>
+<TITLE>
 flow of chemically reacting gas mixtures .
- 
+</TITLE>
+<AUTHOR>
+clarke,j.f.
+</AUTHOR>
+<BIBLIO>
+coa r117, 1961.
+</BIBLIO>
+<TEXT>
   suitable forms of the equations
 for the flow of an inviscid, nonheat-conducting
 gas in which chemical
@@ -32,3 +43,5 @@ equilibrium sound speeds, the
 frequency of the (harmonic) sound
 vibration and a characteristic time for
 the rate of progress of the reaction .
+</TEXT>
+</DOC>

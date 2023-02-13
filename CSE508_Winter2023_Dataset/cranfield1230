@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1230
+</DOCNO>
+<TITLE>
 hypersonic nozzle expansion of air with atom recombination
 present .
- 
+</TITLE>
+<AUTHOR>
+nagamatsu,h.t., workman,j.b. and sheer,r.e.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1961, 833.
+</BIBLIO>
+<TEXT>
   an experimental investigation on the expansion of high-temperature,
 high-pressure air to hypersonic flow mach numbers in
 a conical nozzle of a hypersonic shock tunnel has been carried out .
@@ -20,3 +31,5 @@ pressure, the expansion process remains in equilibrium up to a
 certain reservoir temperature, and beyond this temperature the
 flow expansion deviates rapidly from the equilibrium process and
 approaches the frozen case .
+</TEXT>
+</DOC>

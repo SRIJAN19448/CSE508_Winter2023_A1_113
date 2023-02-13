@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+723
+</DOCNO>
+<TITLE>
 on the fatigue failure of structures due to vibrations excited
 by random pressure fields .
- 
+</TITLE>
+<AUTHOR>
+alan powell
+</AUTHOR>
+<BIBLIO>
+the university, southampton
+</BIBLIO>
+<TEXT>
 on the assumption that the forced modes of vibration of a structure,
 subjected to pressure fluctuations random in time and space, can be
 approximated by the composition of the motions of the uncoupled
@@ -13,3 +24,5 @@ acceptance/) concerning the spacewise structure of the pressure
 field and of the geometry of the modes of vibration .  it is shown how
 this result may be used (on assuming /normal/ randomness) to estimate
 the fatigue life on the hypothesis of cumulative damage .
+</TEXT>
+</DOC>

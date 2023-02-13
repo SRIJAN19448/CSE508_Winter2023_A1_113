@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+788
+</DOCNO>
+<TITLE>
 an approximate boundary layer theory for semi-infinite cylinders of
 arbitrary cross-section .
- 
+</TITLE>
+<AUTHOR>
+varley, e.
+</AUTHOR>
+<BIBLIO>
+j. fluid mech. vol. 3. 1958, p. 601-614 .
+</BIBLIO>
+<TEXT>
 an estimate is given of the distribution of skin frictional force per
 unit length, and of displacement area, on the outside of a semi-infinite
  cylinder, of arbitrary cross-section, moving steadily in a direction
@@ -22,3 +33,5 @@ results for the elliptic cylinder and the finite flat plate are given in
 to be in error by at most 20 per cent . in addition, some estimate
 is given of the effect of corners on skin frictional force and
 displacement area .
+</TEXT>
+</DOC>

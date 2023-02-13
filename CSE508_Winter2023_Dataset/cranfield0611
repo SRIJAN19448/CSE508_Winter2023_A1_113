@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+611
+</DOCNO>
+<TITLE>
 an approximate solution of the compressible laminar
 boundary layer on a flat plate .
- 
+</TITLE>
+<AUTHOR>
+monaghan,r.j.
+</AUTHOR>
+<BIBLIO>
+rae tn. aero.2025.
+</BIBLIO>
+<TEXT>
   following a major assumption that enthalpy and velocity are dependent
 only on local conditions, an enthalpy-velocity relation
 is obtained for the laminar boundary layer on a flat plate where subscripts
@@ -18,3 +29,5 @@ distribution are given by and where and which serves to define c .
   these have the advantage of being algebraic in form whereas previous
 results have involved complex numerical integrations for individual
 cases .
+</TEXT>
+</DOC>

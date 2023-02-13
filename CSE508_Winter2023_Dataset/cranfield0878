@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+878
+</DOCNO>
+<TITLE>
 experimental model techniques and equipment for flutter
 investigations .
- 
+</TITLE>
+<AUTHOR>
+molyneux,w.g.
+</AUTHOR>
+<BIBLIO>
+air. eng. 1958.
+</BIBLIO>
+<TEXT>
 an outline is given of the uses of flutter models as an
 aid to the designer in the avoidance of flutter .  details
 are given of the different types and methods of construction
@@ -12,3 +23,5 @@ and low speed tests .
 of the full scale aircraft is described, and the value
 of the electronic flutter simulator in this field is
 discussed .
+</TEXT>
+</DOC>

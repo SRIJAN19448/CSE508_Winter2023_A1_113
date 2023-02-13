@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+275
+</DOCNO>
+<TITLE>
 the effect of lift on entry corridor depth and guidance
 requirements for the return lunar flight .
- 
+</TITLE>
+<AUTHOR>
+wong,t. and slye,r.
+</AUTHOR>
+<BIBLIO>
+nasa r-80, 1960.
+</BIBLIO>
+<TEXT>
   corridors for manned vehicles are
 defined consistent with requirements
 for avoiding radiation exposure and for
@@ -21,3 +32,5 @@ velocity .  energy required to effect a
 given change in perigee altitude
 varies inversely with range measured
 from the center of the earth .
+</TEXT>
+</DOC>

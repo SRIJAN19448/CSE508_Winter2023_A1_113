@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1283
+</DOCNO>
+<TITLE>
 on shearing flow between porous coaxial cylinders .
- 
+</TITLE>
+<AUTHOR>
+dunwoody,n.t.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962, 494.
+</BIBLIO>
+<TEXT>
   the flow between concentric porous cylinders in relative axial
 motion with a pressure gradient is considered .  the analysis is
 restricted by the assumption that the velocity distribution is a
@@ -9,3 +20,5 @@ or withdrawal of fluid at any station .  this assumption reduces
 the problem to a soluble system of ordinary differential
 equations .  an associated heat-transfer problem is also discussed
 briefly .
+</TEXT>
+</DOC>

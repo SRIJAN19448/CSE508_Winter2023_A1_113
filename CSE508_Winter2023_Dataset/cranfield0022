@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+22
+</DOCNO>
+<TITLE>
 on slip-flow heat transfer to a flat plate .
- 
+</TITLE>
+<AUTHOR>
+oman,r.a. and scheuing,r.a.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 26, 1959, 126.
+</BIBLIO>
+<TEXT>
   assuming that continuum flow energy equation in a boundary
 layer remains valid well into slip region and taking account of the
 temperature jump in a moving rarefied gas and for influence of
@@ -9,3 +20,5 @@ solution is found for the temperature gradient in the slip region .
 then from maslen expression (j. aero. sci. 25, 6, 400-401, june
 slipping fluid to a flat plate, and behavior confirms results for
 small values of knudsen number .
+</TEXT>
+</DOC>

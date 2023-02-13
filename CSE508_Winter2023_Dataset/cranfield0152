@@ -1,6 +1,16 @@
-
+<DOC>
+<DOCNO>
+152
+</DOCNO>
+<TITLE>
 on the flow of compressible fluid past an obstacle .
- 
+</TITLE>
+<AUTHOR>
+lord rayleigh, o.m., f.r.s.
+</AUTHOR>
+<BIBLIO>
+</BIBLIO>
+<TEXT>
 it is well known that according to classical hydrodynamics a steady
 stream of frictionless incompressible fluid exercises no resultant
 force upon an obstacle, such as a rigid sphere, immersed in it .  the
@@ -18,3 +28,5 @@ velocities, exceeding that of sound in the fluid, must entirely alter
 the conditions .  it seems worth while to examine this question more
 closely, especially as the first effects of compressibility are amenable
 to mathematical treatment .
+</TEXT>
+</DOC>

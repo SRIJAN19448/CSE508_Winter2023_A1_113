@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1121
+</DOCNO>
+<TITLE>
 compressive and torsional buckling of thin-wall cylinders
 in the yield region .
- 
+</TITLE>
+<AUTHOR>
+gerard,g.
+</AUTHOR>
+<BIBLIO>
+naca tn.3726, 1956.
+</BIBLIO>
+<TEXT>
   based on assumptions which have
 led to the best agreement between
 theory and test data on inelastic buckling
@@ -24,3 +35,5 @@ the maximum-shear law rather
 than the octahedral-shear law to transform
 axial stress-strain data to
 shear stress-strain data .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+144
+</DOCNO>
+<TITLE>
 heat flow in composite slabs .
- 
+</TITLE>
+<AUTHOR>
+mayer,e.
+</AUTHOR>
+<BIBLIO>
+j.am.r.s. 22, 1952, 150.
+</BIBLIO>
+<TEXT>
   this paper presents the solution of the heat flow problem
 in composite walls under heat transfer conditions
 which are typical of uncooled rocket engine walls .  analytic
@@ -17,3 +28,5 @@ results for the composite slab are simplified for the limiting
 cases of a thin refractory shield with a thick shielded medium
 and a thick refractory shield with a thin shielded
 medium .
+</TEXT>
+</DOC>

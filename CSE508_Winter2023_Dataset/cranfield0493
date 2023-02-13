@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+493
+</DOCNO>
+<TITLE>
 real-gas laminar boundary layer skin friction and heat
 transfer .
- 
+</TITLE>
+<AUTHOR>
+wilson,r.e.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962, 640.
+</BIBLIO>
+<TEXT>
   the laminar-boundary-layer equations have been integrated
 for the case of a flat plate over a wide range of free-stream
 enthalpies and velocities and over a wide range of enthalpies of
@@ -29,3 +40,5 @@ the enthalpy, h', is used .  using this recovery factor and
 reynolds analogy, heat-transfer rates can be computed which,
 with a few exceptions, are within 5 percent of values obtained
 from computing-machine results .
+</TEXT>
+</DOC>

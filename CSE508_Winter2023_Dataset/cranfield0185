@@ -1,7 +1,17 @@
-
+<DOC>
+<DOCNO>
+185
+</DOCNO>
+<TITLE>
 some possibilities of using gas mixtures other than in
 aerodynamic research .
- 
+</TITLE>
+<AUTHOR>
+dean r. chapman
+</AUTHOR>
+<BIBLIO>
+</BIBLIO>
+<TEXT>
 a study is made of the advantages that can be realized in compressibleflow
 research by employing a substitute heavy gas in place of air .
 most heavy gases considered in previous investigations are either toxic,
@@ -30,3 +40,5 @@ temperature, and the variation of specific heat with temperature fall
 within this category .  other applications arise in heat-transfer
 research since certain gas mixtures can be concocted to have any prandtl
 number in the range at least between 0.2 and 0.8 .
+</TEXT>
+</DOC>

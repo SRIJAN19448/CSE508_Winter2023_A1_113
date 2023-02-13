@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1114
+</DOCNO>
+<TITLE>
 steady and fluctuating pressures at transonic speeds
 on two space-vehicle payload shapes .
- 
+</TITLE>
+<AUTHOR>
+coe,c.f.
+</AUTHOR>
+<BIBLIO>
+nasa tm.x503, 1961.
+</BIBLIO>
+<TEXT>
   steady and fluctuating pressures
 have been measured at mach numbers
 which were varied from 0.6 to 1.2 on
@@ -35,3 +46,5 @@ of separation following the
 shock wave appeared flat except for some
 increase in energy level below
 due to slight model motions .
+</TEXT>
+</DOC>

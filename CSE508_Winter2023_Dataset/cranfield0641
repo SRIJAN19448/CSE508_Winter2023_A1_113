@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+641
+</DOCNO>
+<TITLE>
 reduction of the clamped plate to two membrane problems
 with an application to uniformly loaded sectors .
- 
+</TITLE>
+<AUTHOR>
+morley,l.s.d.
+</AUTHOR>
+<BIBLIO>
+rae r.struct.277, 1962.
+</BIBLIO>
+<TEXT>
   the clamped plate problem in
 the classical theory for the small
 deflection bending of flat plates
@@ -22,3 +33,5 @@ a uniformly distributed load .  one
 solution is of special interest because
 it is derived from a single membrane
 problem .  numerical data are given .
+</TEXT>
+</DOC>

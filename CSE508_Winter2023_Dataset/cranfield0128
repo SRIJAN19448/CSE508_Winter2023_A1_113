@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+128
+</DOCNO>
+<TITLE>
 effects of free stream vorticity on the behaviour of
 a viscous boundary layer .
- 
+</TITLE>
+<AUTHOR>
+li,t-y.
+</AUTHOR>
+<BIBLIO>
+j.aero.scs. 23, 1956, 1128.
+</BIBLIO>
+<TEXT>
   theoretical investigation is considered of the two-dimensional
 steady flow field at large distance from a finite object set in a
 viscous incompressible fluid .  study is made of coordinate-type
@@ -19,3 +30,5 @@ requires simple consideration of the heat and laplace equations
 without resort to special methods .
   paper is worth studying by those interested in asymptotic expansion
 procedures .
+</TEXT>
+</DOC>

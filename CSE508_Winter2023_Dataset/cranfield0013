@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+13
+</DOCNO>
+<TITLE>
 similarity laws for stressing heated wings .
- 
+</TITLE>
+<AUTHOR>
+tsien,h.s.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 20, 1953, 1.
+</BIBLIO>
+<TEXT>
   it will be shown that the differential equations for a heated
 plate with large temperature gradient and for a similar plate at
 constant temperature can be made the same by a proper modification
@@ -14,3 +25,5 @@ wing is, however, complicated and involves the novel concept
 of feedback and /body force/ loading .  the problem of stressing
 a heated box-wing structure can be solved by the same analog
 method and is briefly discussed .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1184
+</DOCNO>
+<TITLE>
 three dimensional effects in viscous wakes .
- 
+</TITLE>
+<AUTHOR>
+steiger,m.h. and bloom,m.h.
+</AUTHOR>
+<BIBLIO>
+aiaa jnl. 1963,776
+</BIBLIO>
+<TEXT>
   three-dimensionality in wakelike or jetlike
 free mixing may stem from initial geometric
 configurations, nonuniformities in flow variables
@@ -31,3 +42,5 @@ compressibility is admitted,. however, the flows
 must have uniform pressure and must be
 steady .  the final section deals with interpretation
 and evaluation of the results .
+</TEXT>
+</DOC>

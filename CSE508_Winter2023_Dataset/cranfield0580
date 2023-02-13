@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+580
+</DOCNO>
+<TITLE>
 new thermo-mechanical reciprocity relations with application
 to thermal stress analysis .
- 
+</TITLE>
+<AUTHOR>
+ biot,m.a.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 26, 1959.
+</BIBLIO>
+<TEXT>
   based on the variational formulation of linear thermodynamics
 as developed previously by the writer, thermomechanical
 reciprocity relations are discussed which lead to new methods of
@@ -18,3 +29,5 @@ the concepts and procedures are illustrated on a simple example
 .  the relation is pointed out between the reciprocity
 property and the generalization of castigliano's principle to
 thermomechanics .
+</TEXT>
+</DOC>

@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+1258
+</DOCNO>
+<TITLE>
 heat transfer, recovery factor and pressure distributions
 around a circular cylinder normal to a supersonic rarefied
 air stream .
- 
+</TITLE>
+<AUTHOR>
+tewfik,o.k. and giedt,w.h.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1960, 721.
+</BIBLIO>
+<TEXT>
   measurements of the heat transfer, recovery factor, and
 pressure distributions around a circular cylinder normal to a
 supersonic rarefied-air stream (total temperature 300 k.)
@@ -21,3 +32,5 @@ heat-transfer coefficient distribution was obtained with lees'
 theory .  in the mach number range of 3.55 to 5.73 the pressure
 decreased less rapidly with distance from the stagnation point
 than predicted by the modified newtonian theory .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1059
+</DOCNO>
+<TITLE>
 the nonlinear conical spring .
- 
+</TITLE>
+<AUTHOR>
+schmidt,r. and wempner,g.a.
+</AUTHOR>
+<BIBLIO>
+asme trans. 81e, 1959, 681.
+</BIBLIO>
+<TEXT>
   the large symmetric deformations of shallow conical shells are
 of interest in the design of nonlinear conical disk springs .  in most
 applications a uniformly distributed axial load acts at the inner
@@ -22,3 +33,5 @@ of these results indicates that the meridional bending stresses are
 of much smaller magnitude than the circumferential bending
 stresses .  hence the present analysis is based on the neglect of the
 meridional bending moment .
+</TEXT>
+</DOC>

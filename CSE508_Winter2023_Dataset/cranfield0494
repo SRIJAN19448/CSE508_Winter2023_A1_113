@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+494
+</DOCNO>
+<TITLE>
 axisymmetric viscous flow plast very slender bodies
 of revolution .
- 
+</TITLE>
+<AUTHOR>
+yashura,m.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962, 667.
+</BIBLIO>
+<TEXT>
   axisymmetric viscous flow past unyawed very slender bodies
 of revolution is treated within the category of the perfect gas .
 attention is paid especially to the effect of transverse curvature
@@ -18,3 +29,5 @@ to hypersonic flow past a very slender cone .  comparison with
 experimental results shows fair agreement with calculations using
 the local-similarity approximation in the present range of experimental
 flow conditions .
+</TEXT>
+</DOC>

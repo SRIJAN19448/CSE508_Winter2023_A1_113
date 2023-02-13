@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+901
+</DOCNO>
+<TITLE>
 long slender delta wings with leading edge separation .
- 
+</TITLE>
+<AUTHOR>
+brown,c.e. and michael,w.h.
+</AUTHOR>
+<BIBLIO>
+naca tn.3430.
+</BIBLIO>
+<TEXT>
   the slender-body approximation of linearized compressible flow is
 applied to the problem of a delta wing in which flow separation occurs
 at the leading edges .  the vortex sheets found in the real flow are
@@ -13,3 +24,5 @@ that the lift does not vary linearly with angle of attack .  computed
 pressure distributions and span loadings are presented and the theoretical
 lift results are compared with the results of simple force tests
 made at a mach number of 1.9 .
+</TEXT>
+</DOC>

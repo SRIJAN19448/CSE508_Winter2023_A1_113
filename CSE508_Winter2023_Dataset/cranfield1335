@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+1335
+</DOCNO>
+<TITLE>
 use of freon-12 as a fluid for aerodynamic testing .
- 
+</TITLE>
+<AUTHOR>
+huber,p.w.
+</AUTHOR>
+<BIBLIO>
+naca tn.1024, 1946.
+</BIBLIO>
+<TEXT>
   the thermodynamic properties
 of freon-12 have been
 investigated to determine the
@@ -47,3 +58,5 @@ is so short that no important
 energy dissipations
 should result in most
 engineering applications .
+</TEXT>
+</DOC>

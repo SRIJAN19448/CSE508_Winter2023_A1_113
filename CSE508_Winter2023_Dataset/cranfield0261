@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+261
+</DOCNO>
+<TITLE>
 experiments on axi-symmetric boundary layers along
 a long cylinder in incompressible flow .
- 
+</TITLE>
+<AUTHOR>
+yashura,m.
+</AUTHOR>
+<BIBLIO>
+trans. japan soc.ae.sc. 2, 1959.
+</BIBLIO>
+<TEXT>
   experiments on axi-symmetric boundary
 layers along a long cylinder were made especially
 to investigate the effect of transverse
@@ -23,3 +34,5 @@ estimated that, as the ratio of the momentum
 thickness to body radius increases, the profile
 near the outer layer tends to bend down
 relative to the line of logarithmic wall law .
+</TEXT>
+</DOC>

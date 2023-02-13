@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+476
+</DOCNO>
+<TITLE>
 the blasius equation with three-point boundary conditions .
- 
+</TITLE>
+<AUTHOR>
+napolitano, i. g.
+</AUTHOR>
+<BIBLIO>
+quart. appl. math. v. 16, no. 4, pp 397-408, 1958 .
+</BIBLIO>
+<TEXT>
 the blasius equation subject to three-point boundary conditions, describing
 the interaction between two parallel streams, is solved by way
 of a series in terms of ascending powers of the ratio equals /u1 -dash
@@ -23,3 +34,5 @@ second and first derivatives .
 yield extremely accurate results . the errors in the first two derivatives
 of the blasius functions are always contained within less than one
  per cent .
+</TEXT>
+</DOC>

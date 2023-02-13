@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1229
+</DOCNO>
+<TITLE>
 the effect of sweep angle on hypersonic flow over blunt
 wings .
- 
+</TITLE>
+<AUTHOR>
+bogdonoff,s.m. and vas,r.e.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 1961.
+</BIBLIO>
+<TEXT>
   a series of tests were carried out in the princeton university
 helium hypersoule wind tunnel on blunt two-dimensional wings
 at zero angle of attack with sweep angles up to 70 at mach
@@ -29,3 +40,5 @@ sweep case .  the pressure at a given station for a fixed mach
 number and given leading edge thickness varied as the cosine of
 the sweep angle to the 1.1 power as compared to the 1.3 power
 predicted from general geometrical considerations .
+</TEXT>
+</DOC>

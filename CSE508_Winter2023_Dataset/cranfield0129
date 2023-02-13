@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+129
+</DOCNO>
+<TITLE>
 an investigation of the noise produced by a subsonic air jet .
- 
+</TITLE>
+<AUTHOR>
+j. h. gerrard
+</AUTHOR>
+<BIBLIO>
+university of manchester
+</BIBLIO>
+<TEXT>
 to investigate the theoretical predictions of lighthill on aerodynamic
 sound, measurements have been made of the sound field of a 1 in. air jet
 issuing from a long pipe .  the measurements have been made over a wide
@@ -23,3 +34,5 @@ that of three mutually orthogonal longitudinal quadrupoles
 which, except for the effect of convection upon it, has a sound field
 like a monopole source .  at higher frequencies the sound fields of
 lateral and longitudinal quadrupoles predominate .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+191
+</DOCNO>
+<TITLE>
 a theory for the core of a leading edge vortex .
- 
+</TITLE>
+<AUTHOR>
+hall,m.g.
+</AUTHOR>
+<BIBLIO>
+rae r.aero.2644, 1960.
+</BIBLIO>
+<TEXT>
   in the flow past a slender delta wing
 at incidence can be observed a
 roughly axially symmetric core of spiralling
@@ -34,3 +45,5 @@ presented in tabular form .
   a sample calculation yields results
 which are in good qualitative and
 fair quantitative agreement with experimental measurements .
+</TEXT>
+</DOC>

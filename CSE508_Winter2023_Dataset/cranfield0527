@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+527
+</DOCNO>
+<TITLE>
 note on the three-point boundary layer problem for
 the blasius equations .
- 
+</TITLE>
+<AUTHOR>
+martin,e.d.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 29, 1962.
+</BIBLIO>
+<TEXT>
 in a recent paper a method was presented for obtaining
 higher accuracy in the numerical solution of the blasius
 equation with three-point boundary conditions .  the wellknown
@@ -12,3 +23,5 @@ investigating other fluid flow problems .  the three-point
 boundary-value problem is encountered in the theory of laminar
 mixing and in approximate analyses of separated and wake
 flows as noted in ref. 1 .
+</TEXT>
+</DOC>

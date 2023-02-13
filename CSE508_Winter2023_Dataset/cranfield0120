@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+120
+</DOCNO>
+<TITLE>
 measurement of convective heat transfer by means of
 the reynolds analogy .
- 
+</TITLE>
+<AUTHOR>
+granville,r.a. and boxall,g.
+</AUTHOR>
+<BIBLIO>
+brit.j.app.phys. 11, 1960, 471.
+</BIBLIO>
+<TEXT>
 preston's method for measuring skin friction in pipes has
 been extended to include non-uniform flow, with and without
 pressure gradients, over flat surfaces .  by means of a
@@ -13,3 +24,5 @@ of simple geometry .  more investigations are required of
 the effects of fluid turbulence, surface roughness and
 surface curvature on convective heat transfer and skin
 friction .
+</TEXT>
+</DOC>

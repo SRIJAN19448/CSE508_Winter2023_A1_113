@@ -1,8 +1,19 @@
-
+<DOC>
+<DOCNO>
+470
+</DOCNO>
+<TITLE>
 some notes for the small disturbance linear theory
 of the method of local linearisation of the flow over
 an airfoil at mach number of unity .
- 
+</TITLE>
+<AUTHOR>
+miyai,y.
+</AUTHOR>
+<BIBLIO>
+proc. 10th japan nat. cong. app. mech. iii-4, 1960, 207.
+</BIBLIO>
+<TEXT>
   in this paper, the pressure distribution
 at the surface of a symmetrical
 non-lifting aerofoil with free stream
@@ -18,3 +29,5 @@ methods are used for the calculation
 of the pressure coefficient, some notes
 necessary to obtain more correct results
 have been discussed .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+618
+</DOCNO>
+<TITLE>
 orbit decay and prediction of the motion of artificial satellites .
- 
+</TITLE>
+<AUTHOR>
+michielsen, h.f.
+</AUTHOR>
+<BIBLIO>
+advances in astronautical science, vol 4 plenum press 1959 . pp 255-310
+</BIBLIO>
+<TEXT>
 the rate of decay of elliptic satellite orbits, due to atmospheric drag,
  is investigated through variation of parameters and through use of an
 atmospheric model involving a power function between density and
@@ -15,3 +26,5 @@ a direct relation between period decay and instantaneous density conditions
 is established . this approach, by itself specifically adequate
 for prediction work, also opens an avenue for systematic and unified
 evaluation of observed decay .
+</TEXT>
+</DOC>

@@ -1,7 +1,17 @@
-
+<DOC>
+<DOCNO>
+603
+</DOCNO>
+<TITLE>
 the 7 in. x 7 in. hypersonic wind tunnel at r.a.e. farnborough
 part ii. heater performance .
- 
+</TITLE>
+<AUTHOR>
+j. f. w. crane
+</AUTHOR>
+<BIBLIO>
+</BIBLIO>
+<TEXT>
 tests on the storage heater, which is cylindrical in form and mounted
 horizontally, show that its performance is adequate for operation
 at m=6.8 and probably adequate for flows at m=8.2 with the existing
@@ -20,3 +30,5 @@ cools the heater core and a vertical temperature gradient is set up
 across it after only a few minutes at high pressure .
 modifications to be incorporated in the heater to improve its performance
 are described .
+</TEXT>
+</DOC>

@@ -1,6 +1,17 @@
-
+<DOC>
+<DOCNO>
+874
+</DOCNO>
+<TITLE>
 the use of models for the determination of critical flutter speeds .
- 
+</TITLE>
+<AUTHOR>
+duncan, w.j.
+</AUTHOR>
+<BIBLIO>
+r + m 1425, july 1931 .
+</BIBLIO>
+<TEXT>
 the use of model tests in the prediction of full-scale critical flutter
 speeds is now well established, and the technique of such tests is
 therefore worthy of discussion . in order to obtain critical speeds for
@@ -28,3 +39,5 @@ lastly, the influence of gravity on flutter is considered . this is
 negligibly small for full-scale, but not necessarily so for the model .
 gravitational effects can sometimes be corrected by suitable orientation
  of the model .
+</TEXT>
+</DOC>

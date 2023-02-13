@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+982
+</DOCNO>
+<TITLE>
 the temperature history in a thick skin subjected to laminar heating
 during entry into the atmosphere .
- 
+</TITLE>
+<AUTHOR>
+sutton, g.w.
+</AUTHOR>
+<BIBLIO>
+jet propulsion, vol. 28, january 1959, p 40-5
+</BIBLIO>
+<TEXT>
 during high speed entry into the earth's atmosphere, a vehicle can be
 afforded thermal protection for the short period of entry heating by a
 thick outer skin, sometimes called a /heat sink/ . the temperature
@@ -16,3 +27,5 @@ from which the performance of any material can be found, provided that
 the average thermal properties may be used . as an example of the use of
  the solution, the performance of copper, graphite, molybdenum and
 tungsten are compared .
+</TEXT>
+</DOC>

@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+53
+</DOCNO>
+<TITLE>
 transition reynolds numbers of separated flows at supersonic
 speeds .
- 
+</TITLE>
+<AUTHOR>
+larson,h.k. and keating,s.j.
+</AUTHOR>
+<BIBLIO>
+nasa tn.d349, 1960.
+</BIBLIO>
+<TEXT>
   experimental research has been conducted on the effects of wall
 cooling, mach number, and unit reynolds
 number on the transition reynolds
@@ -27,3 +38,5 @@ caused, in some cases, reattachment in the otherwise separated region .
 cavity resonance present in the separated region for some model configurations
 was accompanied by a large decrease in transition reynolds
 number at the lower test mach numbers .
+</TEXT>
+</DOC>

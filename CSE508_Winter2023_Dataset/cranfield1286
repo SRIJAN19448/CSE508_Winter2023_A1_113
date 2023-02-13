@@ -1,7 +1,18 @@
-
+<DOC>
+<DOCNO>
+1286
+</DOCNO>
+<TITLE>
 equilibrium real-gas performance charts for a shypersonic
 shock-tube wind-tunnel employing nitrogen .
- 
+</TITLE>
+<AUTHOR>
+bernstein,l.
+</AUTHOR>
+<BIBLIO>
+arc cp.633, 1961.
+</BIBLIO>
+<TEXT>
   charts are presented covering
 a wide range of reflected-shock
 wind-tunnel operating conditions, using
@@ -17,3 +28,5 @@ of motion are solved with the
 aid of a digital computer, previously reported
 results for the state of the
 shock-processed gas in the shock-tube being used .
+</TEXT>
+</DOC>
